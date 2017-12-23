@@ -1,0 +1,19 @@
+{
+    "name": "foursking/response",
+    "description": "yet another php response library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "LYF",
+            "email": "lyf021408@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+          "psr-4": {
+          "Http\\": "src/Http",
+    }
+}
+}
